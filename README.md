@@ -11,7 +11,7 @@
 
 * Consumer plays an important role in the successful achievement of organizational goals.
 * According to the new concept of marketing[1],consumers act as a king around which all the business activities rotate.
-*  This paper aims to analyze the factors that influence consumers to purchase a mobile phones.
-*   This survey paper studies the various attributes through which consumers decision of buying a product fluctuates.
-*    The data is collected by conducting a survey questionnaire method in which the sample of 100 consumers recorded and out of 100, 70 were extracted using simple random sampling method for the purpose of analysis.
-*     The extracted data has been analyzed by applying mathematical operations like frequency distribution, percentage and visualized with the help of graphs.
+* This paper aims to analyze the factors that influence consumers to purchase a mobile phones.
+* This survey paper studies the various attributes through which consumers decision of buying a product fluctuates.
+* The data is collected by conducting a survey questionnaire method in which the sample of 100 consumers recorded and out of 100, 70 were extracted using simple random sampling method for the purpose of analysis.
+* The extracted data has been analyzed by applying mathematical operations like frequency distribution, percentage and visualized with the help of graphs.
